@@ -14,8 +14,8 @@ module.exports = {
           // `.swcrc` can be used to configure swc
           // WARNING: swc-decorator behavior different from babel-plugin-transform-typescript-metadata or typescript decorator.
           // switch loader to check it.
-          loader: 'babel-loader',
-          // loader: 'swc-loader',
+          // loader: 'babel-loader',
+          loader: 'swc-loader',
         }
       }
     ]
