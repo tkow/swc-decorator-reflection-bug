@@ -1,3 +1,5 @@
+This is not decorator problem but mangle terser options, you can avoid mangle: false and compress keep_classnames: true and keep_fnames: true.
+
 ## Settig Reproduction
 
 1. run `pnpm i`
